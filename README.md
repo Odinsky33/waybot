@@ -1,0 +1,2 @@
+# waybot
+beginning startup
